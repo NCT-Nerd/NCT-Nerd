@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 # 自己紹介
 ぺぴ です
+-->
 ## 主にやってること
 blender, unity, MMDとかやってたり  
 最近は3DCG関係に興味があります
