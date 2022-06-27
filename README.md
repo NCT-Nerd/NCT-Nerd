@@ -26,4 +26,3 @@ blender, unity, MMDとかやってたり
 minecrarftとかやってます  
 赤石回路が好きです  
 論理回路で計算機作ったり
-testmessege
