@@ -19,10 +19,4 @@ Here are some ideas to get you started:
 # 自己紹介
 ぺぴ です
 -->
-## 主にやってること
-blender, unity, MMDとかやってたり  
-最近は3DCG関係に興味があります
-## ゲームとか
-minecrarftとかやってます  
-赤石回路が好きです  
-論理回路で計算機作ったり
+unity, blenderを使ってゲームを作ってます
