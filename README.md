@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <--
 # HI 
 ぺぴ です
-==>
+-->
 unity, blenderを使ってゲームを作ってる一般高専生
