@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-# 自己紹介
+<--
+# HI 
 ぺぴ です
--->
-unity, blenderを使ってゲームを作ってます
+==>
+unity, blenderを使ってゲームを作ってる一般高専生
